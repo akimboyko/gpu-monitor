@@ -69,3 +69,8 @@ To add reservations, it is possible to add booking information machine-by-machin
   "gputest002-pa4": []  // no reservation info for this machine
 }
 ```
+
+## Example data for development
+```sh
+cp example_data/* data/
+```
